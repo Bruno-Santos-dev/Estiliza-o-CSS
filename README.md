@@ -1,26 +1,21 @@
-<h1>Projeto de estilização utilizando HTML e CSS </h1>
+<h1>Projeto de Treinamento em HTML e CSS</h1>
 
 <h2> Sobre</h2>
-<p> Projeto de Treinamento em HTML e CSS
+<p> Este projeto foi criado para aprimorar habilidades em HTML e CSS, com foco nas seguintes técnicas e conceitos:</p>
 
-Este projeto foi criado para aprimorar habilidades em HTML e CSS, com foco nas seguintes técnicas e conceitos:
-
-✅ Estruturação e boas práticas na criação de classes no HTML e CSS.
-✅ Posicionamento de elementos utilizando diferentes abordagens do CSS.
-✅ Aplicação do Box Model (margin, border, padding).
-✅ Utilização de height e box-sizing para controle de tamanho e comportamento dos elementos.
-✅ Exploração de diferentes formas de posicionamento (static, relative, absolute, fixed).
-✅ Uso do Flexbox para alinhamento e distribuição de elementos na página.
-✅ Estilização e posicionamento de botões com propriedades CSS.
-✅ Criação e uso de divs para organização do layout.
-✅ Remoção de sublinhado em textos com text-decoration.
-✅ Aplicação de border-radius para arredondar bordas.
-✅ Definição de espaçamentos verticais e horizontais para melhor organização.
-✅ Posicionamento de elementos em coluna com Flexbox.
-✅ Uso do Gap para espaçamento uniforme entre elementos filhos.
-
-Este projeto ajudou a consolidar os conhecimentos fundamentais para a construção de layouts responsivos e bem organizados.
-</p>
+<p>✅ Estruturação e boas práticas na criação de classes no HTML e CSS.</p>
+<p>✅ Posicionamento de elementos utilizando diferentes abordagens do CSS.</p>
+<p>✅ Aplicação do Box Model (margin, border, padding).</p>
+<p>✅ Utilização de height e box-sizing para controle de tamanho e comportamento dos elementos.</p>
+<p>✅ Exploração de diferentes formas de posicionamento (static, relative, absolute, fixed).</p>
+<p>✅ Uso do Flexbox para alinhamento e distribuição de elementos na página.</p>
+<p>✅ Estilização e posicionamento de botões com propriedades CSS.</p>
+<p>✅ Criação e uso de divs para organização do layout.</p>
+<p>✅ Remoção de sublinhado em textos com text-decoration.</p>
+<p>✅ Aplicação de border-radius para arredondar bordas.</p>
+<p>✅ Definição de espaçamentos verticais e horizontais para melhor organização.</p>
+<p>✅ Posicionamento de elementos em coluna com Flexbox.</p>
+<p>✅ Uso do Gap para espaçamento uniforme entre elementos filhos.</p>
 
 ## Tecnologias
 <div>
