@@ -1,7 +1,7 @@
 <h1>Projeto de Treinamento em HTML e CSS</h1>
 
 <h2> Sobre</h2>
-<p> Este projeto foi criado para aprimorar habilidades em HTML e CSS, com foco nas seguintes técnicas e conceitos:</p>
+<p> Este projeto foi criado com intuito de eu poder treinar o conteudo de HTML e CSS que aprendi durante o periodo de curso, no qual teve os seguintes conceitos:</p>
 
 <p>✅ Estruturação e boas práticas na criação de classes no HTML e CSS.</p>
 <p>✅ Posicionamento de elementos utilizando diferentes abordagens do CSS.</p>
